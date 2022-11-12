@@ -1,0 +1,300 @@
+{
+  "addRecipeFormData": {
+    "name": {
+      "label": "Recipe Name"
+    },
+    "coffeeType": {
+      "label": "Coffee Type"
+    },
+    "grind": {
+      "unit": "um2",
+      "label": "Volume"
+    },
+    "milliliters": {
+      "units": "ml",
+      "label": "Milliliters"
+    },
+    "time": {
+      "unit": "s",
+      "label": "Pour Interval"
+    },
+    "waterHardness": {
+      "unit": "mg Calcium/liter",
+      "label": "Water Hardness"
+    },
+    "coffeeDose": {
+      "unit": "g",
+      "label": "Coffee Dose"
+    },
+    "extractionTds": {
+      "unit": "%",
+      "label": "TDS"
+    },
+    "insideTemperature": {
+      "unit": "C&#176;",
+      "label": "Inside Temperature"
+    },
+    "outsideTemperature": {
+      "unit": "C&#176;",
+      "label": "Outside Temperature"
+    },
+    "owner": {
+      "label": "Owner"
+    }
+  },
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Reteta 21 grade",
+      "createdAt": "21-10-2022",
+      "coffeeType": "Yemen",
+      "grind": {
+        "value": 10,
+        "unit": "um2",
+        "label": "Volume"
+      },
+      "milliliters": {
+        "value": 40,
+        "units": "ml",
+        "label": "Milliliters"
+      },
+      "time": {
+        "value": 30,
+        "unit": "s",
+        "label": "Pour Interval"
+      },
+      "waterHardness": {
+        "value": 0.4,
+        "unit": "mg Calcium/liter",
+        "label": "Water Hardness"
+      },
+      "coffeeDose": {
+        "value": 18,
+        "unit": "g",
+        "label": "Coffee Dose"
+      },
+      "extractionTds": {
+        "value": 11.5,
+        "unit": "%",
+        "label": "TDS"
+      },
+      "insideTemperature": {
+        "value": 21,
+        "unit": "C&#176;",
+        "label": "Inside Temperature"
+      },
+      "outsideTemperature": {
+        "value": 5,
+        "unit": "C&#176;",
+        "label": "Outside Temperature"
+      },
+      "owner": {
+        "value": "Maria",
+        "label": "Owner"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Reteta 22 grade",
+      "createdAt": "23-12-2022",
+      "coffeeType": "Brazil",
+      "grind": {
+        "value": 8,
+        "unit": "%",
+        "label": "Volume"
+      },
+      "milliliters": {
+        "value": 50,
+        "units": "ml",
+        "label": "Milliliters"
+      },
+      "time": {
+        "value": 20,
+        "unit": "s",
+        "label": "Pour Interval"
+      },
+      "waterHardness": {
+        "value": 0.2,
+        "unit": "mg Calcium/liter",
+        "label": "Water Hardness"
+      },
+      "coffeeDose": {
+        "value": 15,
+        "unit": "g",
+        "label": "Coffee Dose"
+      },
+      "extractionTds": {
+        "value": 11.5,
+        "unit": "%",
+        "label": "TDS"
+      },
+      "insideTemperature": {
+        "value": 22,
+        "unit": "C&#176;",
+        "label": "Inside Temperature"
+      },
+      "outsideTemperature": {
+        "value": -5,
+        "unit": "C&#176;",
+        "label": "Outside Temperature"
+      },
+      "owner": {
+        "value": "Cristi",
+        "label": "Owner"
+      }
+    },
+    {
+      "id": 1668251148590,
+      "name": "1",
+      "createdAt": "Sat Nov 12 2022 13:05:48 GMT+0200 (Eastern European Standard Time)",
+      "coffeeType": "2",
+      "grind": {
+        "value": "3",
+        "unit": "um2",
+        "label": "Volume"
+      },
+      "milliliters": {
+        "value": "4",
+        "units": "ml",
+        "label": "Milliliters"
+      },
+      "time": {
+        "value": "5",
+        "unit": "s",
+        "label": "Pour Interval"
+      },
+      "waterHardness": {
+        "value": "6",
+        "unit": "mg Calcium/liter",
+        "label": "Water Hardness"
+      },
+      "coffeeDose": {
+        "value": "7",
+        "unit": "g",
+        "label": "Coffee Dose"
+      },
+      "extractionTds": {
+        "value": "8",
+        "unit": "%",
+        "label": "TDS"
+      },
+      "insideTemperature": {
+        "value": "9",
+        "unit": "C&#176;",
+        "label": "Inside Temperature"
+      },
+      "outsideTemperature": {
+        "value": "0",
+        "unit": "C&#176;",
+        "label": "Outside Temperature"
+      },
+      "owner": {
+        "value": "11",
+        "label": "Owner"
+      }
+    },
+    {
+      "id": 1668251287219,
+      "name": "",
+      "createdAt": "Sat Nov 12 2022 13:08:07 GMT+0200 (Eastern European Standard Time)",
+      "coffeeType": "Danisa Organic",
+      "grind": {
+        "value": "9",
+        "unit": "um2",
+        "label": "Volume"
+      },
+      "milliliters": {
+        "value": "42",
+        "units": "ml",
+        "label": "Milliliters"
+      },
+      "time": {
+        "value": "26",
+        "unit": "s",
+        "label": "Pour Interval"
+      },
+      "waterHardness": {
+        "value": "1",
+        "unit": "mg Calcium/liter",
+        "label": "Water Hardness"
+      },
+      "coffeeDose": {
+        "value": "18.5",
+        "unit": "g",
+        "label": "Coffee Dose"
+      },
+      "extractionTds": {
+        "value": "1",
+        "unit": "%",
+        "label": "TDS"
+      },
+      "insideTemperature": {
+        "value": "22",
+        "unit": "C&#176;",
+        "label": "Inside Temperature"
+      },
+      "outsideTemperature": {
+        "value": "32",
+        "unit": "C&#176;",
+        "label": "Outside Temperature"
+      },
+      "owner": {
+        "value": "Owner",
+        "label": "Owner"
+      }
+    },
+    {
+      "id": 1668251532170,
+      "name": "",
+      "createdAt": "Sat Nov 12 2022 13:12:12 GMT+0200 (Eastern European Standard Time)",
+      "coffeeType": "",
+      "grind": {
+        "value": "",
+        "unit": "um2",
+        "label": "Volume"
+      },
+      "milliliters": {
+        "value": "",
+        "units": "ml",
+        "label": "Milliliters"
+      },
+      "time": {
+        "value": "",
+        "unit": "s",
+        "label": "Pour Interval"
+      },
+      "waterHardness": {
+        "value": "",
+        "unit": "mg Calcium/liter",
+        "label": "Water Hardness"
+      },
+      "coffeeDose": {
+        "value": "",
+        "unit": "g",
+        "label": "Coffee Dose"
+      },
+      "extractionTds": {
+        "value": "",
+        "unit": "%",
+        "label": "TDS"
+      },
+      "insideTemperature": {
+        "value": "",
+        "unit": "C&#176;",
+        "label": "Inside Temperature"
+      },
+      "outsideTemperature": {
+        "value": "",
+        "unit": "C&#176;",
+        "label": "Outside Temperature"
+      },
+      "owner": {
+        "value": "",
+        "label": "Owner"
+      }
+    }
+  ],
+  "users": {
+    "id": 3
+  }
+}
