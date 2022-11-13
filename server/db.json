@@ -144,72 +144,22 @@
       }
     },
     {
-      "id": 1668251148590,
-      "name": "1",
-      "createdAt": "Sat Nov 12 2022 13:05:48 GMT+0200 (Eastern European Standard Time)",
-      "coffeeType": "2",
+      "id": 1668324714957,
+      "name": "Coconut ",
+      "createdAt": "2022-11-13T07:31:54.957Z",
+      "coffeeType": "Columbia",
       "grind": {
-        "value": "3",
-        "unit": "um2",
-        "label": "Volume"
-      },
-      "milliliters": {
-        "value": "4",
-        "units": "ml",
-        "label": "Milliliters"
-      },
-      "time": {
-        "value": "5",
-        "unit": "s",
-        "label": "Pour Interval"
-      },
-      "waterHardness": {
-        "value": "6",
-        "unit": "mg Calcium/liter",
-        "label": "Water Hardness"
-      },
-      "coffeeDose": {
         "value": "7",
-        "unit": "g",
-        "label": "Coffee Dose"
-      },
-      "extractionTds": {
-        "value": "8",
-        "unit": "%",
-        "label": "TDS"
-      },
-      "insideTemperature": {
-        "value": "9",
-        "unit": "C&#176;",
-        "label": "Inside Temperature"
-      },
-      "outsideTemperature": {
-        "value": "0",
-        "unit": "C&#176;",
-        "label": "Outside Temperature"
-      },
-      "owner": {
-        "value": "11",
-        "label": "Owner"
-      }
-    },
-    {
-      "id": 1668251287219,
-      "name": "",
-      "createdAt": "Sat Nov 12 2022 13:08:07 GMT+0200 (Eastern European Standard Time)",
-      "coffeeType": "Danisa Organic",
-      "grind": {
-        "value": "9",
         "unit": "um2",
         "label": "Volume"
       },
       "milliliters": {
-        "value": "42",
+        "value": "40",
         "units": "ml",
         "label": "Milliliters"
       },
       "time": {
-        "value": "26",
+        "value": "28",
         "unit": "s",
         "label": "Pour Interval"
       },
@@ -219,7 +169,7 @@
         "label": "Water Hardness"
       },
       "coffeeDose": {
-        "value": "18.5",
+        "value": "18",
         "unit": "g",
         "label": "Coffee Dose"
       },
@@ -234,62 +184,62 @@
         "label": "Inside Temperature"
       },
       "outsideTemperature": {
-        "value": "32",
+        "value": "30",
         "unit": "C&#176;",
         "label": "Outside Temperature"
       },
       "owner": {
-        "value": "Owner",
+        "value": "Maria",
         "label": "Owner"
       }
     },
     {
-      "id": 1668251532170,
-      "name": "",
-      "createdAt": "Sat Nov 12 2022 13:12:12 GMT+0200 (Eastern European Standard Time)",
-      "coffeeType": "",
+      "id": 1668324729336,
+      "name": "Coconut ",
+      "createdAt": "2022-11-13T07:32:09.336Z",
+      "coffeeType": "Columbia",
       "grind": {
-        "value": "",
+        "value": "7",
         "unit": "um2",
         "label": "Volume"
       },
       "milliliters": {
-        "value": "",
+        "value": "40",
         "units": "ml",
         "label": "Milliliters"
       },
       "time": {
-        "value": "",
+        "value": "28",
         "unit": "s",
         "label": "Pour Interval"
       },
       "waterHardness": {
-        "value": "",
+        "value": "1",
         "unit": "mg Calcium/liter",
         "label": "Water Hardness"
       },
       "coffeeDose": {
-        "value": "",
+        "value": "18",
         "unit": "g",
         "label": "Coffee Dose"
       },
       "extractionTds": {
-        "value": "",
+        "value": "1",
         "unit": "%",
         "label": "TDS"
       },
       "insideTemperature": {
-        "value": "",
+        "value": "22",
         "unit": "C&#176;",
         "label": "Inside Temperature"
       },
       "outsideTemperature": {
-        "value": "",
+        "value": "30",
         "unit": "C&#176;",
         "label": "Outside Temperature"
       },
       "owner": {
-        "value": "",
+        "value": "Maria",
         "label": "Owner"
       }
     }
